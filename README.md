@@ -1,5 +1,7 @@
 # Digital Image Processing Using Python
 
+A collection of Digital Image Processing experiments implemented using Python, OpenCV, NumPy, and Matplotlib.
+
 ## Technologies
 
 - Python
@@ -9,12 +11,13 @@
 
 ## Experiments
 
-- RGB Color Separation
-- Grayscale Conversion
-- Binary Image Conversion
-- Tambola Ticket Generator
-- Histogram
-- Histogram Equalization
-- Image Negative
-- Image Filtering
-- Edge Detection
+### 1. DIP Lab 1
+
+- RGB color separation
+- Grayscale conversion
+- Binary image conversion
+
+### 2. Tambola Ticket Generator
+
+- Automatic Tambola ticket generation
+- Ticket visualization using Python
