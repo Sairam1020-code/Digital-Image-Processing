@@ -1,0 +1,6 @@
+
+### `Tambola_Ticket_Generator/requirements.txt`
+
+```text
+numpy
+matplotlib

@@ -1,0 +1,7 @@
+
+### `01_DIP_LAB1/requirements.txt`
+
+```text
+opencv-python
+numpy
+matplotlib
