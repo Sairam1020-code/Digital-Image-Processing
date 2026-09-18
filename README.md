@@ -1,6 +1,6 @@
 # Digital Image Processing Using Python
 
-A collection of Digital Image Processing experiments and projects implemented using Python, OpenCV, NumPy, and Matplotlib.
+A collection of Digital Image Processing experiments and projects implemented using Python, OpenCV, NumPy, Matplotlib, Pillow, and Tkinter.
 
 ## Technologies
 
@@ -8,6 +8,8 @@ A collection of Digital Image Processing experiments and projects implemented us
 - OpenCV
 - NumPy
 - Matplotlib
+- Pillow
+- Tkinter
 
 ## Experiments and Projects
 
@@ -38,7 +40,7 @@ A collection of Digital Image Processing experiments and projects implemented us
 #### 3.2 Bit Plane Slicing & Image Reconstruction
 
 - 8-bit plane decomposition
-- Bit Planes 7 to 0
+- Bit planes 7 to 0
 - Selected bit planes
 - Image reconstruction
 - Comparison of original and reconstructed images
@@ -53,19 +55,89 @@ A collection of Digital Image Processing experiments and projects implemented us
 - Brightness and color variations
 - Watermark comparison
 
+### 4. DIP Lab 3
+
+#### 4.1 Shannon-Fano Image Compression
+
+- Shannon-Fano coding
+- Pixel frequency analysis
+- Variable-length binary code generation
+- Grayscale image compression
+- Lossless image decompression
+- Compression ratio calculation
+- Space saved calculation
+- Pixel frequency and code visualization
+- Graphical User Interface (GUI)
+
+#### 4.2 Huffman Image Compression
+
+- Huffman tree construction
+- Pixel frequency analysis
+- Huffman code generation
+- Variable-length binary coding
+- Grayscale image compression
+- Lossless image decompression
+- Compression ratio calculation
+- Space saved calculation
+- Pixel frequency and code visualization
+- Graphical User Interface (GUI)
+
 ## Repository Structure
 
 ```text
 Digital-Image-Processing/
 │
-├── Tambola_Ticket_Generator/
-│
 ├── 01_DIP_LAB1/
+│   ├── dip_lab1.py
+│   ├── Output_Lab1.png
+│   ├── README.md
+│   ├── requirements.txt
+│   └── Sample_Photo.jpg
 │
 ├── 02_DIP_LAB2/
+│   │
 │   ├── 01_Histogram_Processing/
+│   │   ├── sample_images/
+│   │   ├── screenshots/
+│   │   ├── main.py
+│   │   ├── README.md
+│   │   └── requirements.txt
+│   │
 │   ├── 02_Bit_Plane_Slicing/
+│   │   ├── sample_images/
+│   │   ├── screenshots/
+│   │   ├── main.py
+│   │   ├── README.md
+│   │   └── requirements.txt
+│   │
 │   └── 03_LSB_Watermarking/
+│       ├── sample_images/
+│       ├── screenshots/
+│       ├── main.py
+│       ├── README.md
+│       └── requirements.txt
+│
+├── 03_DIP_LAB3/
+│   │
+│   ├── 01_Shannon_Fano/
+│   │   ├── sample_images/
+│   │   ├── screenshots/
+│   │   ├── main.py
+│   │   ├── README.md
+│   │   └── requirements.txt
+│   │
+│   └── 02_Huffman/
+│       ├── sample_images/
+│       ├── screenshots/
+│       ├── main.py
+│       ├── README.md
+│       └── requirements.txt
+│
+├── Tambola_Ticket_Generator/
+│   ├── Output_Tambola-Ticket.png
+│   ├── README.md
+│   ├── requirements.txt
+│   └── tambola_ticket.py
 │
 ├── README.md
 └── requirements.txt
