@@ -1,0 +1,7 @@
+
+### `requirements.txt`
+
+```text
+opencv-python
+numpy
+Pillow
