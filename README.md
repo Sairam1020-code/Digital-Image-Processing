@@ -19,13 +19,13 @@ A collection of Digital Image Processing experiments and projects implemented us
 - Random number arrangement
 - Ticket visualization using Python
 
-### 2. DIP Lab 1
+### 2. Basic_Image_Processing
 
 - RGB color channel separation
 - Grayscale image conversion
 - Black and white (binary) image conversion
 
-### 3. DIP Lab 2
+### 3. Image_Enhancement_and_Watermarking
 
 #### 3.1 Interactive Histogram Analysis & Enhancement
 
@@ -55,7 +55,7 @@ A collection of Digital Image Processing experiments and projects implemented us
 - Brightness and color variations
 - Watermark comparison
 
-### 4. DIP Lab 3
+### 4. Image_Compression
 
 #### 4.1 Shannon-Fano Image Compression
 

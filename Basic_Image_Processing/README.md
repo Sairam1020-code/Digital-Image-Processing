@@ -1,4 +1,4 @@
-# DIP Lab 1 — RGB, Grayscale and Binary Image Processing
+# Basic_Image_Processing — RGB, Grayscale and Binary Image Processing
 
 This project demonstrates basic digital image processing operations using Python, OpenCV, NumPy, and Matplotlib.
 
